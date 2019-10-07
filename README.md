@@ -20,4 +20,4 @@ I was brought onto this project to provide insights on where and how a Real Esta
 
 ## Model Summary:
 
-While I initially looked into creating my own SARIMA model with the data, I was not happy with the AIC and models ability to predict the home values in general. I looked into tuning the model until it became too computationally expensive and then opted to go with Facebooks Prophet Model to make the predictions shown above.
+While I initially looked into creating my own SARIMA model with the data, I was not happy with the AIC and models ability to predict the home values in general. I looked into tuning the model until it became too computationally expensive and then opted to go with Facebooks Prophet Model to make the predictions shown in the Jupyter Notebook.
